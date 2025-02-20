@@ -46,10 +46,10 @@ You can modify the script to:
 Feel free to fork the repository and submit pull requests for improvements.
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## 📞 Contact
 For any questions or suggestions, reach out at:
-📧 Email: your-email@example.com  
+📧 Email: your-shwetha.shaji15@gmail.com
 🐙 GitHub: [shwethashaji-ai](https://github.com/shwethashaji-ai/OIBSIP_03)
 
